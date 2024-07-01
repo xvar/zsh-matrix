@@ -13,6 +13,8 @@ Add to `install_zsh.sh` script the right to execute via:
 chmod +x install_zsh.sh
 ```
 
+Run `install_zsh.sh` script
+
 ### Troubleshooting
 
 If you encounter any issues, especially related to permissions, you can refer to this troubleshooting guide:
